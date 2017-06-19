@@ -1,5 +1,6 @@
 # PlazaPublica
 Proyecto de prueba para Plaza Publica URL
+
 La prueba es la siguiente:
 
 * Instalar y configurar Apache, PHP y MySQL (instalar individualmente).
