@@ -1,0 +1,11 @@
+USER ADMIN: 
+username: josemansilla
+password: Mansilla10
+
+USER EDITOR 1: 
+username: editor1
+password: root
+
+USER EDITOR 2:
+username: editor2
+password: root
